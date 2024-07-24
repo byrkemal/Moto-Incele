@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/bmws1000rr.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Nunito', sans-serif;
+    margin:0;
+    background-position: center;
+    opacity: 0.9;
+    height: 600px;
+    background-attachment: fixed;
+}
+
+h1,h2,h3,h4,p{
+    color: #fff;
+}
+
+header {
+    background-color: rgb(28, 33, 37);
+    color: #fff;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(28, 33, 37);
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+#gallery img{
+    float: left;
+}
+
+
+  
+

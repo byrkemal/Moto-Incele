@@ -1,0 +1,301 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Nunito', sans-serif;
+    margin:0;
+
+}
+
+#menu{
+    background-color: rgb(28, 33, 37);
+    height: 80px;
+    padding: 0 20px;
+}
+
+#logo{
+    font-size: 30px;
+    line-height: 80px;
+    color: cadetblue;
+    float: left;
+}
+
+nav{
+    float: right;
+    line-height: 80px;
+}
+
+nav a:link{
+    text-decoration: none;
+    margin-right: 25px;
+    color: cadetblue;
+
+}
+
+nav a:hover{
+    border-bottom: 2px solid cadetblue;
+}
+
+nav a:visited{
+    text-decoration: none;
+    margin-right: 25px;
+    color: cadetblue;
+}
+
+.ikon{
+    margin-right: 7px;
+    font-size: 16px;
+}
+
+#Anasayfa{
+    background-color: gray;
+    height: 600px;
+    background-image: url(img/zyro-image\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}   
+
+#black{
+    height: 600px;
+    background-color: black;
+    opacity:0.5;
+}
+
+#metin{
+    position: absolute;
+    top: 62%;
+    left: 35%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+
+p{
+   color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+#Hakkımızda{
+    background-color: rgb(28, 33, 37);
+    padding: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+h3{
+    font-size: 55px;
+    color: cadetblue;
+    text-shadow: 0px 1px 1px black;
+    font-weight: 600;
+}
+
+.container{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+}
+
+#sol{
+    float: left;
+    border-right: 3px solid cadetblue;
+    color: black;
+}
+
+#h5sol1{
+    line-height: 1.6;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#h5sol,#sag{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+span{
+    font-size: 50px;
+    margin-right: 7px;
+    line-height: 33px;
+    font-weight: 600;
+    color: aliceblue;
+    float: left;
+}
+
+#sag{
+    float: left;
+    width: 600px;
+    text-align: left;
+    padding-left: 30px;
+    height: auto;
+    
+}
+
+#psag{
+    color: #999999;
+}
+
+.img-moto{
+    max-width: 100%;
+    height: auto;
+}
+
+#sol1{
+    font-size: 15px;
+    padding-right: 10px;
+}
+
+#pson{
+    color: #999999;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+#Haberler{
+    background-color: aliceblue;
+    padding: 50px;
+    text-align: center;
+    height: 700px;
+}
+
+.card{
+    width: 320px;
+    height: 410px;
+    border: 1px solid #ddd;
+    padding: 0;
+    display: inline-block;
+}
+
+.baslıkcard{
+    font-size: 15px;
+    color: cadetblue;
+}
+
+.yazıcard{
+    font-size: 14px;
+    color: aliceblue;
+}
+
+.card:hover{
+    border: 2px solid cadetblue;
+}
+
+#Haberler{
+    background-color:rgb(28, 33, 37) ;
+    
+}
+
+#iletişim{
+    background: url(img/zyro-image\ \(4\).png);
+    background-size: cover;
+    padding: 50px;
+    text-align: center;
+    height: auto;
+}
+
+.adres1{
+    color: #ddd;
+    font-size: 30px;
+}
+
+.adres2{
+    color: #ddd;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+}
+
+.social{
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    width: 50px;
+    border-radius: 5px;
+    margin: 5px 10px;
+}
+
+#iletişimşefaf{
+    background-color: rgba(255,255,255,0.2);
+    padding: 30px 20px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    height: 550px;
+}
+
+#formgroup{
+    width: 700px;
+    float: left;
+    height: 500px;
+    text-align: left;
+}
+
+#solform{
+    width: 50%;
+    float: left;
+    padding-right: 5px;
+}
+
+#sağform{
+    width: 50%;
+    float: right;
+    padding-left: 5px;
+}
+
+.form-kontrol{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="submit"]{
+    cursor: pointer;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#adres{
+    width: 450px;
+    float: right;
+    padding: 30px;
+    height: 500px;
+    text-align: left;
+}
+
+#saklı{
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.sub-menu-1{
+    display: none;
+}
+
+.hover-me{
+    display: none;
+}
+
+#menu li:hover .sub-menu-1{
+    display: block;
+}
+
