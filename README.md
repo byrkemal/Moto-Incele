@@ -60,6 +60,7 @@
 <div align="center">
   <img src="Moto İncele/Ekran görüntüsü 2024-07-24 141649.png" alt="Motosikletler" width="300"/>
   <img src="Moto İncele/Ekran görüntüsü 2024-07-24 141607.png" alt="Ana Sayfa" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4ab5ed18-5268-4170-a433-5042d6758ae6" alt="Ekran görüntüsü 2024-07-24 141826" width="300"/>
   <img src="Moto İncele/Ekran görüntüsü 2024-07-24 141708.png" alt="Giriş" width="300"/>
   <img src="Moto İncele/Ekran görüntüsü 2024-07-24 141748.png" alt="Admin Panel" width="300"/>
 </div>
@@ -204,3 +205,4 @@ moto-incele/
   <p>⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!</p>
   <p>🏍️ Motosiklet tutkusu ile kodlanmıştır ❤️</p>
 </div>
+
